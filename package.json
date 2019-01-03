@@ -1,0 +1,24 @@
+{
+  "name": "bulma-css-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx serve . && open http://localhost:5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/bulma-css-test.git"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pdehaan/bulma-css-test/issues"
+  },
+  "homepage": "https://github.com/pdehaan/bulma-css-test#readme",
+  "dependencies": {
+    "bulma": "0.7.2"
+  }
+}
